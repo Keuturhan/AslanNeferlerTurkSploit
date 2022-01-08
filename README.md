@@ -1,3 +1,3 @@
 # AslanNeferlerTurkSploit
 oto Metasploit Yukleme (Termux Icin)
-https://aslaneferler.org
+https://aslanneferler.org
